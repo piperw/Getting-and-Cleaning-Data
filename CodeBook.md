@@ -14,24 +14,24 @@ A Fast Fourier Transform (FFT) was applied to some of these signals producing fB
 ##Variables and Measurements
 1. Subject = the individual whose measurements were recorded
 2. Activity = the type of activity which occurred (walking, walking upstairs, walking downstairs, sitting, standing, laying)
-3. Feature Vector Variables (for clarity t = Time, f = Frequency, Acc = Accelerometer, Gryo = Gyroscope, Mag = Magnitude)
-    tBodyAcc-XYZ
-    tGravityAcc-XYZ
-    tBodyAccJerk-XYZ
-    tBodyGyro-XYZ
-    tBodyGyroJerk-XYZ
-    tBodyAccMag
-    tGravityAccMag
-    tBodyAccJerkMag
-    tBodyGyroMag
-    tBodyGyroJerkMag
-    fBodyAcc-XYZ
-    fBodyAccJerk-XYZ
-    fBodyGyro-XYZ
-    fBodyAccMag
-    fBodyAccJerkMag
-    fBodyGyroMag
-    fBodyGyroJerkMag
+3. Feature Vector Variables (for clarity t = Time, f = Frequency, Acc = Accelerometer, Gryo = Gyroscope, Mag = Magnitude) <br>
+    tBodyAcc-XYZ <br>
+    tGravityAcc-XYZ <br>
+    tBodyAccJerk-XYZ <br>
+    tBodyGyro-XYZ <br>
+    tBodyGyroJerk-XYZ <br>
+    tBodyAccMag <br>
+    tGravityAccMag <br>
+    tBodyAccJerkMag <br>
+    tBodyGyroMag <br>
+    tBodyGyroJerkMag <br>
+    fBodyAcc-XYZ <br>
+    fBodyAccJerk-XYZ <br>
+    fBodyGyro-XYZ <br>
+    fBodyAccMag <br>
+    fBodyAccJerkMag <br>
+    fBodyGyroMag <br>
+    fBodyGyroJerkMag <br>
 4. Mean
 5. Standard Deviation
 
