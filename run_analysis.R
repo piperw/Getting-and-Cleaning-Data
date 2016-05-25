@@ -1,7 +1,6 @@
 #Getting and Cleaning Data Course Project
 ##This code will clean and tidy data collected from accelerometers from the Samsung Galaxy S smartphone
 
-
 #Loads packages
 library(data.table)
 library(dplyr)
